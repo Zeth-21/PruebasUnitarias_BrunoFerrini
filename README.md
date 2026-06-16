@@ -102,6 +102,10 @@ Validar teléfono:
 
 Primero se desarrollaron las pruebas unitarias utilizando Jest antes de implementar la lógica del sistema.
 
+![Fase RED - Pruebas Fallidas 1](FAIL1.png)
+
+![Fase RED - Pruebas Fallidas 2](FAIL2.png)
+
 ### Tecnologías utilizadas
 
 - Node.js
@@ -124,6 +128,8 @@ Primero se desarrollaron las pruebas unitarias utilizando Jest antes de implemen
 ## 🟢 Fase GREEN
 
 Posteriormente se implementó la lógica mínima necesaria para que todas las pruebas fueran exitosas.
+
+![Fase GREEN - Pruebas Exitosas](PASS.png)
 
 ### Validaciones implementadas
 
