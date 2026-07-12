@@ -31,4 +31,4 @@ jobs:
 
       # Paso 4: Ejecutar todos los tests unitarios
       - name: Ejecutar tests con cobertura (Quality Gate)
-        run: npm test:coverage
+        run: npm run test:coverage
