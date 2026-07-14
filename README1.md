@@ -20,7 +20,7 @@ El proyecto utiliza **GitHub Actions** para ejecutar automáticamente dos valida
 
 Para ver el informe detallado de este laboratorio, la configuración de los *secrets* y las evidencias de ejecución, revisa el siguiente documento:
 
-👉 [Ver Documentación Completa del Proyecto](https://drive.google.com/file/d/1joXdL9LhnSB3K99C2LCBqt_Konp-jePK/view?usp=sharing)
+👉 [Ver Documentación Completa del Proyecto](https://drive.google.com/file/d/1joXdL9LhnSB3K99C2LCBqt_Konp-jePK/view?usp=drive_link)
 
 ---
 *Desarrollado como parte de las prácticas de aseguramiento de calidad de software.*
